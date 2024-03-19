@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI- based Smart ERP-Next**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, Deep Learning**
 
 - 💬 Ask me about **Scikit Learn, Django**
 
