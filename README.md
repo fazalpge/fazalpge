@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Deep Learning**
 
-- 💬 Ask me about **TensoeFlow, PyTorch, Scikit Learn, Django**
+- 💬 Ask me about **TensorFlow, PyTorch, Scikit Learn, Django**
 
 - 📫 How to reach me **fazalpge@gmail.com**
 
